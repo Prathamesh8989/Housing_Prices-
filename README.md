@@ -1,7 +1,18 @@
-# Housing_Prices-
-The items are already arranged in a well-ordered sequence. Please note that the outputs of most of the code have been saved. If you're running this on a local machine, make sure to either delete the saved outputs or rename the output files in the code to avoid any conflicts.
+# Housing_Prices
 
-First, extract the extraction.rar file. This will provide you with the following files:
+The project files are already arranged in a well-ordered sequence. Most of the code outputs have been saved, so if you're running this on a local machine, please make sure to either delete the saved outputs or rename the output files in the code to avoid any conflicts.
+
+You’ve been provided with a single archive: everything.rar. Here’s how to proceed:
+
+Extract everything.rar – Inside, you'll find:
+
+A guide file: procedure.pdf
+
+Three folders: Part 1, Part 2, and Part 3 (structured in the same sequence as outlined in procedure.pdf)
+
+Another archive: extraction.rar
+
+Extract extraction.rar – This will provide you with the following files:
 
 train.csv
 
@@ -11,8 +22,8 @@ sample_submission.csv
 
 data_description.txt
 
-Next, copy the train.csv, test.csv, and sample_submission.csv files into Part 1, Part 2, and Part 3, respectively.
+Copy the CSV files – Copy all three files (train.csv, test.csv, and sample_submission.csv) into Part 1, Part 2, and Part 3 so that each part has all three CSV files.
 
-I haven’t done this step due to GitHub's storage limitations.
+⚠️ Note: I haven’t included these CSV files directly in the GitHub repository due to storage limitations.
 
-Hope you like what I’ve put together!
+Hope you enjoy exploring the project and find the structure easy to follow!
